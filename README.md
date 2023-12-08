@@ -1,1 +1,1 @@
-# nwuygulama
+# ado.net CRUD Proje
